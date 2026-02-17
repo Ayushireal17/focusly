@@ -2,7 +2,7 @@
 Focusly  / Focus Timer App A clean and minimal productivity timer built with HTML, CSS, Bootstrap, and JavaScript featuring work/break cycles, session tracking, sound alerts, and responsive design.
 
 # Focusly / Focus Timer App
-A simple, clean, and modern Pomodoro Timer web application designed to improve focus and productivity using the Pomodoro Technique. Built with HTML, CSS, Bootstrap, and JavaScript, this app provides an intuitive interface with essential features for effective time management.
+A simple, clean, and modern  Timer web application designed to improve focus and productivity using the Pomodoro Technique. Built with HTML, CSS, Bootstrap, and JavaScript, this app provides an intuitive interface with essential features for effective time management.
 
 # Features
 Start, Pause, and Reset timer controls
